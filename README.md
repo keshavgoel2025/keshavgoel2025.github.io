@@ -11,16 +11,16 @@ Live Chat & Messaging – Secure and instant communication between mentors and m
 Resource Sharing – Upload and share educational materials, notes, and guides.
 Feedback & Reviews – Mentees can rate and review mentorship sessions for continuous improvement.
 Progress Tracking – Monitor learning goals, completed sessions, and mentorship impact.
+
 Tech Stack-
-Frontend
-
+1.Frontend
 HTML, CSS, JavaScript – Crafting an intuitive and engaging user interface.
-Backend
 
+2.Backend
 Node.js – Fast and scalable backend for seamless communication and data handling.
 Express.js – Lightweight and powerful framework for API development.
-Database
 
+3.Database
 MongoDB / PostgreSQL (To be decided based on scalability needs)
 
 Future Enhancements-
